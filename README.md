@@ -38,6 +38,8 @@ git clone https://github.com/yourusername/Customer_Churn_Flask_App.git
 
 # Step 2: Go to project directory
 cd Customer_Churn_Flask_App
+<img width="1112" height="568" alt="image" src="https://github.com/user-attachments/assets/1ec11f88-e24f-45e1-9e63-a40eef29606a" />
+
 
 # Step 3: Install dependencies
 pip install -r requirements.txt
