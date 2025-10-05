@@ -5,6 +5,7 @@ A Machine Learning web application built using Flask that predicts customer chur
 This is a **Machine Learning Web Application** built using **Flask** that predicts whether a telecom customer is likely to churn or stay.  
 The model is trained on a real-world telecom dataset and deployed for live predictions through a user-friendly web interface.
 
+
 ---
 
 ## 🚀 Features
