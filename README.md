@@ -1,2 +1,47 @@
 # Customer_Churn_Flask_App
 A Machine Learning web application built using Flask that predicts customer churn based on telecom user data. The project includes data preprocessing, model training using XGBoost, and deployment of an interactive Flask web interface for live predictions.
+# 🧮 Customer Churn Prediction Flask App
+
+This is a **Machine Learning Web Application** built using **Flask** that predicts whether a telecom customer is likely to churn or stay.  
+The model is trained on a real-world telecom dataset and deployed for live predictions through a user-friendly web interface.
+
+---
+
+## 🚀 Features
+- Interactive Flask-based web app for real-time predictions  
+- Machine Learning model trained using **XGBoost**  
+- Label encoding for categorical variables  
+- Pickle-based model loading for deployment  
+- Responsive front-end built with HTML + CSS  
+
+---
+
+## 🧠 Tech Stack
+- **Python 3.x**  
+- **Flask**  
+- **Pandas, NumPy, XGBoost, Scikit-learn**  
+- **HTML, CSS, Bootstrap**  
+
+---
+
+## 🧩 How It Works
+1. Data is preprocessed and categorical variables are encoded.  
+2. The trained XGBoost model predicts customer churn.  
+3. Flask renders the web page and returns prediction results instantly.
+
+---
+
+## 🖥️ Run Locally
+```bash
+# Step 1: Clone this repository
+git clone https://github.com/yourusername/Customer_Churn_Flask_App.git
+
+# Step 2: Go to project directory
+cd Customer_Churn_Flask_App
+
+# Step 3: Install dependencies
+pip install -r requirements.txt
+
+# Step 4: Run the app
+python app.py
+
