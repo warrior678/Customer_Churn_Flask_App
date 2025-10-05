@@ -12,7 +12,9 @@ The model is trained on a real-world telecom dataset and deployed for live predi
 - Machine Learning model trained using **XGBoost**  
 - Label encoding for categorical variables  
 - Pickle-based model loading for deployment  
-- Responsive front-end built with HTML + CSS  
+- Responsive front-end built with HTML + CSS
+-  <img width="1111" height="560" alt="image" src="https://github.com/user-attachments/assets/7efc8722-099e-42a7-b88e-a98cd09924e1" />
+
 
 ---
 
