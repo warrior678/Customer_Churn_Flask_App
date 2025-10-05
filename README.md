@@ -20,7 +20,11 @@ The model is trained on a real-world telecom dataset and deployed for live predi
 - **Python 3.x**  
 - **Flask**  
 - **Pandas, NumPy, XGBoost, Scikit-learn**  
-- **HTML, CSS, Bootstrap**  
+- **HTML, CSS, Bootstrap**
+- ## 📓 Model Training
+The model used in this app was trained in the Jupyter Notebook:
+👉 [Churn_model_training.ipynb](./Churn_model_training.ipynb)
+  
 
 ---
 
